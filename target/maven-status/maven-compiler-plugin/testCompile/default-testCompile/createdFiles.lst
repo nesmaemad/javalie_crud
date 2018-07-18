@@ -1,0 +1,5 @@
+app/models/BookSpec.class
+app/services/GreeterMock.class
+app/controllers/GreetingControllerSpec.class
+app/services/GreeterMockModule.class
+app/controllers/BooksControllerSpec.class
