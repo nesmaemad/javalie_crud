@@ -10,4 +10,8 @@ public class LandingController extends AppController {
     public void index(){
 
     }
+
+    public void signIn(){
+
+    }
 }

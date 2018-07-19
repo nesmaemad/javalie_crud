@@ -29,7 +29,7 @@
     <nav class="navbar navbar-light bg-light static-top">
       <div class="container">
         <a class="navbar-brand" href="#">Start Bootstrap</a>
-        <a class="btn btn-primary" href="#">Sign In</a>
+        <@link_to action="sign_in" class="btn btn-primary">Sign In</@link_to>
       </div>
     </nav>
 
@@ -178,7 +178,7 @@
     <footer class="footer bg-light">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+          <div class="col-lg-6 text-center text-lg-left my-auto">
             <ul class="list-inline mb-2">
               <li class="list-inline-item">
                 <a href="#">About</a>
@@ -198,7 +198,7 @@
             </ul>
             <p class="text-muted small mb-4 mb-lg-0">&copy; Your Website 2018. All Rights Reserved.</p>
           </div>
-          <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+          <div class="col-lg-6 text-center text-lg-right my-auto">
             <ul class="list-inline mb-0">
               <li class="list-inline-item mr-3">
                 <a href="#">
