@@ -9,16 +9,16 @@
     <title>Log in with your account</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+    <link href="../vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="../vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-    <link href="css/landing-page.css" rel="stylesheet">
-    <link href="css/common.css" rel="stylesheet">
-    <link href="css/login-style.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="../css/landing-page.css" rel="stylesheet">
+    <link href="../css/common.css" rel="stylesheet">
+    <link href="../css/login-style.css" rel="stylesheet" type="text/css" media="all"/>
 </head>
 
 <body>
@@ -37,7 +37,7 @@
                         <div class="callbacks_container">
                             <ul class="rslides callbacks callbacks1" id="slider4">
                                 <li>
-                                    <div class="w3ls-subscribe w3ls-subscribe1" style="background: url(img/4.png) no-repeat 0px 0px;background-size: cover;">
+                                    <div class="w3ls-subscribe w3ls-subscribe1" style="background: url(../img/4.png) no-repeat 0px 0px;background-size: cover;">
                                         <div class="agileits-border agileits-border1">
                                             <h4>Already have an account?</h4>
                                             <h4>Sign In</h4 >
@@ -124,6 +124,6 @@
 
 
 
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 </body>
